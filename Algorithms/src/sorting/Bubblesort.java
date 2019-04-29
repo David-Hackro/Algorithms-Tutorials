@@ -38,8 +38,7 @@ public class Bubblesort {
     }
 
     private boolean HasNext(Integer position) {
-        if (position != numbersArray.length - 1) return true;
-        return false;
+        return position != numbersArray.length - 1;
     }
 
     private void printResult() {
