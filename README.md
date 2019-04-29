@@ -4,14 +4,15 @@ Dillinger is currently extended with the following plugins. Instructions on how 
 
  #### Algoritmos de Ordenamiento
  
-| Algoritmo | Codigo |
-| ------ | ------ |
-| Bubblesort | [Link](https://github.com/David-Hackro/Algorithms-Tutorials/blob/master/Algorithms/src/sorting/Bubblesort.java) |
-| Insertion | Link|  |
-| Bucket | Link|
-| Counting | Link|
-| Merge | Link|
-| Radix | Link|
-| Comb | Link|
-| Heapsort | Link|
-| Quicksort | Link|
+| Algoritmo | Video | Codigo | 
+| ------ | ------ | ------ |
+| Bubblesort | Link | [Link]() |
+| Insertion | Link | [Link]() |
+| Bucket | Link | [Link]() |
+| Counting | Link | [Link]() |
+| Merge | Link | [Link]() |
+| Radix | Link | [Link]() |
+| Comb | Link | [Link]() |
+| Heapsort | Link | [Link]() |
+| Quicksort | Link | [Link]() |
+
