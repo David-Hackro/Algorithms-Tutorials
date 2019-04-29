@@ -19,18 +19,18 @@ public class Bubblesort {
     }
 
     private void BubbleSortMethod() {
-        for (int x = 0; x < numbersArray.length; x++) {
+        for (int indiceX = 0; indiceX < numbersArray.length; indiceX++) {
 
-            for (int y = 0; y < numbersArray.length; y++) {
+            for (int indiceY = 0; indiceY < numbersArray.length; indiceY++) {
 
-                if (HasNext(y)) {
+                if (HasNext(indiceY)) {
 
-                    int current = numbersArray[y];
-                    int next = numbersArray[y + 1];
+                    int current = numbersArray[indiceY];
+                    int next = numbersArray[indiceY + 1];
 
                     if (current > next) {
-                        numbersArray[y] = next;
-                        numbersArray[y + 1] = current;
+                        numbersArray[indiceY] = next;
+                        numbersArray[indiceY + 1] = current;
                     }
                 }
             }
