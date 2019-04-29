@@ -6,13 +6,13 @@ Dillinger is currently extended with the following plugins. Instructions on how 
  
 | Algoritmo | Video | Codigo | 
 | ------ | ------ | ------ |
-| Bubblesort | Link | [Link]() |
-| Insertion | Link | [Link]() |
-| Bucket | Link | [Link]() |
-| Counting | Link | [Link]() |
-| Merge | Link | [Link]() |
-| Radix | Link | [Link]() |
-| Comb | Link | [Link]() |
-| Heapsort | Link | [Link]() |
-| Quicksort | Link | [Link]() |
+| Bubblesort | [Link]() | [Link]() |
+| Insertion | [Link]() | [Link]() |
+| Bucket | [Link]() | [Link]() |
+| Counting | [Link]() | [Link]() |
+| Merge | [Link]() | [Link]() |
+| Radix | [Link]() | [Link]() |
+| Comb | [Link]() | [Link]() |
+| Heapsort | [Link]() | [Link]() |
+| Quicksort | [Link]() | [Link]() |
 
